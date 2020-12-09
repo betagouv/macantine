@@ -1,3 +1,6 @@
+<<insertHTML:[test.html]
+
+
 # Présentation de la loi EGalim
 
 Ce que nous vous proposons ici est un condensé des mesures principales de la loi. 

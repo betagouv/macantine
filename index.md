@@ -4,7 +4,7 @@ Ce que nous vous proposons ici est un condensé des mesures principales de la lo
 Accéder au document détaillé à ce [lien](https://github.com/betagouv/macantine/blob/main/2001_Mesures-LoiEgalim_BRO_BD.pdf). 
 
 Vous êtes un acteur de la restauration collective, vous souhaitez nous poser une question, nous faire des suggestions, comprendre la démarche ? 
-[Contactez-nous !](mailto:contact@egalim.beta.gouv.fr) !
+[Contactez-nous !](mailto:contact@egalim.beta.gouv.fr)
 
 ## Contexte de la loi
 
